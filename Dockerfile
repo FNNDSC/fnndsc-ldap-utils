@@ -4,4 +4,5 @@ RUN apt update && \
     apt install -y ldap-utils \
         net-tools \
         dnsutils \
-        iputils-ping
+        iputils-ping \
+        less
